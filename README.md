@@ -1,1 +1,1 @@
-# Blogging-Site-with-Flask-and-SQL
+# Blogging-Site-with-Flask-and-SQLite
