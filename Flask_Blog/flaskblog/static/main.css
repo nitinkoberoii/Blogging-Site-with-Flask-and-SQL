@@ -1,23 +1,23 @@
 body {
-  background: #fafafa;
-  color: #333333;
+  background: #2a2d2f; /* Dark gray background */
+  color: #f7f7f7; /* Light gray text */
   margin-top: 5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #444444;
+  color: #ffffff; /* White text for headings */
 }
 
 .bg-steel {
-  background-color: #5f788a;
+  background-color: #333333; /* Darker steel background */
 }
 
 .site-header .navbar-nav .nav-link {
-  color: #cbd5db;
+  color: #cccccc; /* Light gray text for navigation */
 }
 
 .site-header .navbar-nav .nav-link:hover {
-  color: #ffffff;
+  color: #ffffff; /* White text on hover */
 }
 
 .site-header .navbar-nav .nav-link.active {
@@ -25,19 +25,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .content-section {
-  background: #ffffff;
+  background: #50565b; /* Dark gray background for content */
   padding: 10px 20px;
-  border: 1px solid #dddddd;
+  border: 1px solid #444444; /* Slightly lighter border */
   border-radius: 3px;
   margin-bottom: 20px;
 }
 
 .article-title {
-  color: #444444;
+  color: #ffffff; /* White text for title */
 }
 
 a.article-title:hover {
-  color: #428bca;
+  color: #428bca; /* Blue accent color on hover */
   text-decoration: none;
 }
 
@@ -54,11 +54,11 @@ a.article-title:hover {
 .article-metadata {
   padding-bottom: 1px;
   margin-bottom: 4px;
-  border-bottom: 1px solid #e3e3e3
+  border-bottom: 1px solid #444444; /* Slightly lighter border */
 }
 
 .article-metadata a:hover {
-  color: #333;
+  color: #cccccc; /* Light gray for links on hover */
   text-decoration: none;
 }
 
