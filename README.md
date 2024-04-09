@@ -16,6 +16,7 @@ The dependencies/packages that are needed to be installed for the successful exe
 - flask-sqlalchemy
 - flask-login
 - Pillow {for resizing of image, not so necessary}
+- flask-mail
 
 To view the details of the database "site.db", download the "DB Browser for SQLite" by following link:
 https://sqlitebrowser.org/dl/
