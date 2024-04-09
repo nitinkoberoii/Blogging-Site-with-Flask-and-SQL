@@ -4,7 +4,9 @@ This project showcases a blogging webpage named 'BloggingSite'.
 The BloggingSite uses HTML, CSS and Bootstrap as its frontend and Flask and SQLite as its backend. 
 To run the code, execute the 'run.py' file.
 
-This project was made on PyCharm as Second Year DBMS Project. 
+This project was made on PyCharm as my Second Year DBMS Project.
+This project is made by following the video tutorials of Corey Schafer's playlist "Python Flask Tutorial: Full-Featured Web App".
+Find the playlist here: https://youtu.be/MwZwr5Tvyxo?si=FnEFIfUcjE9pMn49
 In Pycharm, you may see some red error lines, but still the code will run successfully, unless the local server shows some error.
 
 The dependencies/packages that are needed to be installed for the successful execution are:
